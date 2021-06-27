@@ -510,6 +510,7 @@ nav .content .links{
       width: 100%;
       font-size: 14px;
       margin-bottom: 4px;
+      color: rgb(114, 111, 111);
   }
   .text-container p{
     font-size: 14px;
@@ -626,13 +627,14 @@ nav .content .links{
     padding-top: 19vh;
     margin-left: 10px;
     margin-right: 10px;
-    width: 300px;
+    width: 98%;
      
   }
   .bottom-text{
       width: 100%;
       font-size: 14px;
       margin-bottom: 4px;
+      color: rgb(114, 111, 111);
   }
   
   .quiz-cat{
